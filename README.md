@@ -1,2 +1,2 @@
-# webtraining
-WebTraining - Git 
+# WebTraining
+Repo for the GIT class
